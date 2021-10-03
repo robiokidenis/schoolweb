@@ -20,3 +20,19 @@ Installation
 
 - [Please see the](https://codeigniter.com/user_guide/installation/index.html)
 - DB db_websekolah.sql
+
+
+# Serve
+
+recomendation Using Apache or nginx \
+also can using builtin php serve with command \
+```php -S 127.0.0.1:80```
+
+## Features
+ login page \
+ ```/admin/login```
+
+* Blog
+* Dashboard 
+* Student Management Page
+* Teacher Management Page
