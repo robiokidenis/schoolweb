@@ -1,6 +1,8 @@
 ## SCHOOL MANAGEMENT SYSTEM BUILD Using CodeIgniter
 ## Previews
 
+![screencapture-localhost-websekolah-2021-10-03-13_41_22](https://user-images.githubusercontent.com/22372509/135743092-10f470d0-db0f-40d9-8722-54009cf5e47d.png)
+
 
 *******************
 Server Requirements
@@ -16,22 +18,5 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+- [Please see the](https://codeigniter.com/user_guide/installation/index.html)
+- DB db_websekolah.sql
